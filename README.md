@@ -139,9 +139,6 @@ Follow the link to contribute to Free-Hit - [CONTRIBUTING.md](./CONTRIBUTING.md)
 
 ## ✨ Contributors
 
-<a href="https://github.com/jasondsouza212/free-hit/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=jasondsouza212/free-hit" />
-</a>
 <a href="https://github.com/TimiBee/free-hit/">
   <img src="https://contrib.rocks/image?repo=TimiBee/free-hit" />
 </a>
